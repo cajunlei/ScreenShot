@@ -28,6 +28,10 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hugo.bnblogs.cc/ -o barneysblog.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.shifeiti.com/ -o shifeiti.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.5i21.cn/ -o kukudemaren.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://opeach.cn/ -o hipeach.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.marcus233.top/ -o marcus.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.acozycotage.net/ -o kwobron.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.moyuql.top/ -o moyuql.jpg
         
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blogwe.com/ -o blogwe.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.foreverblog.cn/ -o shinianzhiyue.jpg
